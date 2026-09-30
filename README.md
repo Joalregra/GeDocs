@@ -1,3 +1,23 @@
+>  **Contributor Note:** This repository is a fork of Gedocs. Taking on a Full-Stack role with a strong focus on UI/UX, frontend integration, and quality assurance. 
+> Below are my specific contributions regarding design, frontend development, and testing. To view the original project, visit [https://github.com/LydiaSierra/GeDocs.git].
+
+---
+
+## Key Contributions
+
+*Please note that I am not the author of the entire codebase. My end-to-end work spanned from visual prototyping to production reliability, specifically focusing on:*
+
+*   **UI/UX Prototyping & Module Design:** Designed the structural and visual mockups for the project's core modules using **Figma**. I established the base design system and delivered interactive prototypes ready for technical implementation. *(See [https://www.figma.com/design/CivbQzrHOjt1lqVruvMF9x/Gesti%C3%B3n-Documental?node-id=390-519&t=BLVE68lb8aMjBG7q-0
+])*
+*   **Notifications System Development (Frontend):** Built the complete user interface for the notifications hub using **React**. I managed the backend integration by consuming REST endpoints and efficiently handling the state to render real-time data without impacting UI performance. 
+*   **Full-Stack Testing Architecture:** Led and executed the testing strategy to ensure the stability of the entire system. I implemented the frontend testing suite using **Vitest** for React components, and developed unit and integration tests for the backend business logic using **PHPUnit**. 
+
+### Tech Stack Used in My Contributions:
+`React`, `Laravel`, `Vitest`, `PHPUnit`, `Figma`
+
+---
+
+
 # Document Management System with PQRS
 
 Backend and frontend project for document management and handling PQRS, developed with Laravel, Inertia.js, and React.
